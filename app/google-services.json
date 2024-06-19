@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "911997631284",
+    "firebase_url": "https://saima-kanwal-poetry-default-rtdb.firebaseio.com",
+    "project_id": "saima-kanwal-poetry",
+    "storage_bucket": "saima-kanwal-poetry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911997631284:android:568a492203400821a84361",
+        "android_client_info": {
+          "package_name": "com.example.saimakanwaladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2CjlyamLsku8QM2_rWGECcVj-S9LIaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911997631284:android:35ca36dd253297cfa84361",
+        "android_client_info": {
+          "package_name": "com.o5appstudio.adminjauneliaallbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2CjlyamLsku8QM2_rWGECcVj-S9LIaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911997631284:android:1552acbd49bb6285a84361",
+        "android_client_info": {
+          "package_name": "com.o5appstudio.saimakanwal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2CjlyamLsku8QM2_rWGECcVj-S9LIaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911997631284:android:347de4731e4fa062a84361",
+        "android_client_info": {
+          "package_name": "com.o5appstudio.saimakanwalpoetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2CjlyamLsku8QM2_rWGECcVj-S9LIaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911997631284:android:d79fea46022c85c7a84361",
+        "android_client_info": {
+          "package_name": "com.o5studio.saimakanwalpoetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2CjlyamLsku8QM2_rWGECcVj-S9LIaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911997631284-kpmlaic5f2npoj5p8jp2tu625g80ssp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
